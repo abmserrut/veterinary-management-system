@@ -26,3 +26,5 @@ build/
 .DS_Store
 Thumbs.db
 
+# !libraries/mysql_connector_j_9_7_0.jar
+
