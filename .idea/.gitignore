@@ -1,0 +1,30 @@
+# IntelliJ IDEA
+
+.idea/
+*.iml
+
+# VS Code
+
+.vscode/
+
+# Java compiled files
+
+*.class
+
+# Build folders
+
+out/
+target/
+build/
+
+# Logs
+
+*.log
+
+# Operating System files
+
+.DS_Store
+Thumbs.db
+
+# !libraries/mysql_connector_j_9_7_0.jar
+
